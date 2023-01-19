@@ -35,7 +35,7 @@ export default function Home() {
                 チーム登録フォーム
               </Text>
               <Text fontSize={'x-small'}>
-                Miss Dance Drill Team Int'l Japan
+                Miss Dance Drill Team Int&apos;l Japan
               </Text>
             </Box>
 
@@ -142,8 +142,8 @@ export default function Home() {
               </VStack>
             </Box>
             <Text fontSize="x-small" textAlign="center" mt="2">
-              Copyright &copy; 2022 NPO Miss Dance Drill Team Int'l Japan. All
-              Rights Reserved.
+              Copyright &copy; 2022 NPO Miss Dance Drill Team Int&apos;l Japan.
+              All Rights Reserved.
             </Text>
           </Container>
         </VStack>
